@@ -12,7 +12,6 @@
 Foucs:
 Currently Building a Strong Foundation in Computer Science to Support My transition
 into Physics and Astrophysics.
-
 Research Interest:
 Astrophysics - Mathematics - Physics and Computational Physics - Data Analysis
 Simulations
@@ -26,9 +25,11 @@ C# - Python - GitHub - Mathematics & Algorithms
 💻Learning GitHub collaboration
 🚀Building Small projects and basic applications
 
->Goal: Use Computer Science as a tool for Mathematics & Astrophysics Research
+Goal: Use Computer Science as a tool for Mathematics & Astrophysics Research
 Where code meets the Universe
 
-📩Contact
-myacademics.kervin@gmail.com
+📩Contact info: myacademics.kervin@gmail.co
+
+
+
 
