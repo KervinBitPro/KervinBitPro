@@ -1,16 +1,19 @@
 🙋‍♂️I'm Moratwa Kervin Mashakana | KervinBitPro
 
 📍Pretoria | Bloemfontein, South Africa
+
 🎓1st Year BSc Computer Science Student 2026 @ UFS > BSc Physics & Astrophysics 2027
+
 🔭Aspiring PhD Astrophysics and Mathematics Research Scientist
   Computational Astrophysicist | Maths-Intensive Research
+  
 💻Currently Learning C# & Python
 
-Foucs
+Foucs:
 Currently Building a Strong Foundation in Computer Science to Support My transition
 into Physics and Astrophysics.
 
-Research Interest
+Research Interest:
 Astrophysics - Mathematics - Physics and Computational Physics - Data Analysis
 Simulations
 
