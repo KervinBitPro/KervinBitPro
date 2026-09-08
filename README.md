@@ -17,7 +17,7 @@ into Physics and Astrophysics.
 Astrophysics - Mathematics - Physics and Computational Physics - Data Analysis
 Simulations
 
-**Tech Stack I'm Learning: **
+**Tech Stack I'm Learning:**
 C# - Python - GitHub - Mathematics & Algorithms
 
 **What I'm Working On Now**
@@ -26,10 +26,10 @@ C# - Python - GitHub - Mathematics & Algorithms
 💻Learning GitHub collaboration
 🚀Building Small projects and basic applications
 
-Goal: Use Computer Science as a tool for Mathematics & Astrophysics Research
+**Goal:** Use Computer Science as a tool for Mathematics & Astrophysics Research
 Where code meets the Universe
 
-📩Contact info: myacademics.kervin@gmail.co
+**📩Contact info:** myacademics.kervin@gmail.co
 
 
 
