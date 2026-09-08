@@ -9,14 +9,15 @@
   
 💻Currently Learning C# & Python
 
-Foucs:
+**Foucs:**
 Currently Building a Strong Foundation in Computer Science to Support My transition
 into Physics and Astrophysics.
-Research Interest:
+
+**Research Interest:**
 Astrophysics - Mathematics - Physics and Computational Physics - Data Analysis
 Simulations
 
-**Tech Stack I'm Learning**
+**Tech Stack I'm Learning: **
 C# - Python - GitHub - Mathematics & Algorithms
 
 **What I'm Working On Now**
