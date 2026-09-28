@@ -1,35 +1,34 @@
-🙋‍♂️I'm Moratwa Kervin Mashakana | KervinBitPro
+# Hi, I'm Moratwa Kervin Mashakana 👋
 
-📍Pretoria | Bloemfontein, South Africa
+🎓 First-year BSc Computer Science student at The University of the Free State, 2026  
+📚 Pursuing BSc Physics & Astrophysics (2027)  
+🔭 Aspiring PhD Research Scientist in Astrophysics & Mathematics, And a Aspiring Software Developer. 
 
-🎓1st Year BSc Computer Science Student 2026 @ UFS > BSc Physics & Astrophysics 2027
+## 🚀 Research Interests
+- Computational Astrophysics & Cosmology
+- Mathematics-Intensive Research  
+- Mathematical Physics & Numerical Methods  
+- Data Analysis & Scientific Simulations  
+- Machine Learning applied to Astronomy, Physics & Mathematic  
 
-🔭Aspiring PhD Astrophysics and Mathematics Research Scientist
-  Computational Astrophysicist | Maths-Intensive Research
-  
-💻Currently Learning C# & Python
+## 💻 Tech Stack
+- Languages: C#, Python, C++, SQL  
+- Tools: GitHub, Jupyter, LaTeX, MATLAB, Astropy, TensorFlow/PyTorch  
+- Focus: Scientific Computing, Algorithms, Data Visualization & Analysis, Software Development  
 
-**Foucs:**
-Currently Building a Strong Foundation in Computer Science to Support My transition
-into Physics and Astrophysics.
+## 📈 Current Work
+- Learning & Mastering Python, C#, C++ for scientific computing  
+- Building small projects in physics & astrophysics  
+- Learning data analysis for research simulations  
+- Using GitHub for collaboration and portfolio building  
 
-**Research Interest:**
-Astrophysics - Mathematics - Physics and Computational Physics - Data Analysis
-Simulations
+## 🎯 Goal
+To use computer science as a tool for mathematics and astrophysics research —  
+**where code meets the universe.**
 
-**Tech Stack I'm Learning:**
-C# - Python - GitHub - Mathematics & Algorithms
+📫 Contact: myacademics.kervin@gmail.com  
+🌍 Location: Pretoria & Bloemfontein, South Africa
 
-**What I'm Working On Now**
-🧠Learning and Mastering Python for Scientific Computing
-📊Learning Data Analysis for Future Astrophysics research
-💻Learning GitHub collaboration
-🚀Building Small projects and basic applications
-
-**Goal:** Use Computer Science as a tool for Mathematics & Astrophysics Research
-Where code meets the Universe
-
-**📩Contact info:** myacademics.kervin@gmail.co
 
 
 
