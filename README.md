@@ -23,6 +23,7 @@ To use computer science as a tool for mathematics and astrophysics research —
 
  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Moratwa Kervin Mashakana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mashakanarsa@gmail.com) 
+
 🌍 Location: Pretoria & Bloemfontein, South Africa
 
 # 💻 Tech Stack:
