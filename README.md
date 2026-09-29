@@ -19,12 +19,16 @@
 
 ## 🎯 Goal
 To use computer science as a tool for mathematics and astrophysics research —  
-**where code meets the universe.**
+## **where code meets the universe.**
 
  ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Moratwa Kervin Mashakana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mashakanarsa@gmail.com) 
+📩Email: mashakanarsa@gmail.com
 
-🌍 Location: Pretoria & Bloemfontein, South Africa
+📊LinkedIn: Moratwa Kervin Mashakana
+
+# 🌍 Location:
+
+📍Pretoria & Bloemfontein, South Africa
 
 # 💻 Tech Stack:
   I am Actively Learning the Following:
